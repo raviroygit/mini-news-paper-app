@@ -95,8 +95,6 @@ export const searchArticles = async (query: string): Promise<Article[]> => {
     const response = await api.get('/everything', {
       params: {
         q: 'news',
-        from: formattedDate,
-        to: formattedDate,
         sortBy: 'publishedAt',
         language: 'en',
         pageSize: 20,

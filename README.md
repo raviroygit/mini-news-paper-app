@@ -12,6 +12,8 @@ A cross-platform React Native mobile app that displays news articles from a publ
 - **Pull-to-Refresh**: Update content with a simple pull gesture
 - **Dark Mode**: Switch between light and dark themes for comfortable reading
 
+[![Watch the video](./assets/1.png)](./assets/2.MP4)
+
 ## Folder Structure
 
 ```
